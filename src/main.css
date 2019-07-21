@@ -1,0 +1,15 @@
+body {
+    width: 400px;
+}
+
+th {
+    table-layout: fixed;
+    width: 100px;
+    word-wrap: break-word;
+}
+
+td {
+    table-layout: fixed;
+    width: 300px;
+    word-wrap: break-word;
+}
